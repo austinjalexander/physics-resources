@@ -1,6 +1,11 @@
-# physics-resources
+# science-resources
 
 ## To Investigate
+
+### Chemistry
+- http://webpages.uidaho.edu/magolan/page7.html
+
+### Physics
 - http://dicarlolab.tudelft.nl/
 - https://qutech.nl/dicarlo-lab-welcome/dicarlo-publications/
 - https://scholar.google.com/citations?user=zFr2tC8AAAAJ&hl=en

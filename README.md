@@ -6,6 +6,8 @@
 - http://webpages.uidaho.edu/magolan/page7.html
 
 ### Physics
+- http://kouwenhovenlab.tudelft.nl/
+- https://www.microsoft.com/en-us/research/people/lekouwen/
 - http://dicarlolab.tudelft.nl/
 - https://qutech.nl/dicarlo-lab-welcome/dicarlo-publications/
 - https://scholar.google.com/citations?user=zFr2tC8AAAAJ&hl=en

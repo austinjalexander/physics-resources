@@ -15,7 +15,10 @@
 - https://qutech.nl/
 - https://en.wikipedia.org/wiki/Marie_Curie
 - https://en.wikipedia.org/wiki/Solvay_Conference#Fifth_Conference
-
+- http://xxx.lanl.gov/archive/quant-ph
 - https://en.wikipedia.org/wiki/Sylvester_James_Gates
 - https://www.amazon.com/Reality-Shadows-What-Hecks-Higgs/dp/1936411393
 - https://www.amazon.com/Superstring-Theory-S-James-Gates/dp/1598031619
+- http://theory.caltech.edu/people/preskill/ph229/
+- https://people.eecs.berkeley.edu/~vazirani/quantum.html
+- https://cs.uwaterloo.ca/~watrous/CS766/

@@ -5,6 +5,9 @@
 ### Chemistry
 - http://webpages.uidaho.edu/magolan/page7.html
 
+### Genetics
+- http://igem.org/Main_Page
+
 ### Physics
 - http://kouwenhovenlab.tudelft.nl/
 - https://www.microsoft.com/en-us/research/people/lekouwen/

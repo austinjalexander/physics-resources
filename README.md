@@ -22,3 +22,4 @@
 - http://theory.caltech.edu/people/preskill/ph229/
 - https://people.eecs.berkeley.edu/~vazirani/quantum.html
 - https://cs.uwaterloo.ca/~watrous/CS766/
+- http://gentleproject.eu/network/

@@ -29,3 +29,6 @@
 - https://people.eecs.berkeley.edu/~vazirani/quantum.html
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
+
+### Synthetic Biology
+- https://profiles.stanford.edu/drew-endy

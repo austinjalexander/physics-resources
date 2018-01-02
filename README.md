@@ -8,6 +8,9 @@
 ### Genetics
 - http://igem.org/Main_Page
 
+### Neuroscience
+- https://eyewire.org/explore
+
 ### Physics
 - http://kouwenhovenlab.tudelft.nl/
 - https://www.microsoft.com/en-us/research/people/lekouwen/

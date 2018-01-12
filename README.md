@@ -31,7 +31,9 @@
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
 
-### Satellites
+### Space
+- https://www.zooniverse.org/projects/ianc2/exoplanet-explorers
+- https://www.galaxyzoo.org/
 - https://www.space-track.org/
 
 ### Synthetic Biology

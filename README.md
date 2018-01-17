@@ -34,6 +34,10 @@
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
 
+#### Quantum
+- http://pirsa.org/C15009
+- http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
+
 ### Space
 - https://www.zooniverse.org/projects/ianc2/exoplanet-explorers
 - https://www.galaxyzoo.org/

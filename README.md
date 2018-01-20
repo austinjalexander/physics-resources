@@ -48,6 +48,8 @@
 - https://www.zooniverse.org/projects/ianc2/exoplanet-explorers
 - https://www.galaxyzoo.org/
 - https://www.space-track.org/
+- https://www.seti.org/users/seth-shostak
+- http://sethshostak.com/
 
 ### Synthetic Biology
 - https://profiles.stanford.edu/drew-endy

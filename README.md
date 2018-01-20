@@ -20,6 +20,7 @@
 
 ### Neuroscience
 - https://eyewire.org/explore
+- https://www.humanbrainproject.eu/en/
 
 ### Physics
 - http://kouwenhovenlab.tudelft.nl/

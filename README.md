@@ -5,7 +5,7 @@
 ### Biology
 - http://jeb.biologists.org/
 
-#### Synthetic Biology
+#### Bioengineering / Synthetic Biology
 - https://profiles.stanford.edu/drew-endy
 - http://collinslab.mit.edu/index.html
 

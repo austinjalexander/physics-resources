@@ -5,6 +5,10 @@
 ### Biology
 - http://jeb.biologists.org/
 
+#### Synthetic Biology
+- https://profiles.stanford.edu/drew-endy
+- http://collinslab.mit.edu/index.html
+
 ### Chemistry
 - http://webpages.uidaho.edu/magolan/page7.html
 - https://www.pollacklab.org/
@@ -56,6 +60,3 @@
 - https://www.space-track.org/
 - https://www.seti.org/users/seth-shostak
 - http://sethshostak.com/
-
-### Synthetic Biology
-- https://profiles.stanford.edu/drew-endy

@@ -16,6 +16,7 @@
 - http://webpages.uidaho.edu/magolan/page7.html
 - https://www.pollacklab.org/
 - https://futurism.com/images/graphene-the-wonder-material-of-the-future-infographic/
+- https://i.redd.it/semjdz3r2we01.png
 
 ### Games
 - https://www.scienceathome.org/
@@ -56,6 +57,9 @@
 #### Quantum
 - http://pirsa.org/C15009
 - http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
+
+##### Hardware
+- http://quantumcircuits.com/
 
 ### Space
 - https://www.zooniverse.org/projects/ianc2/exoplanet-explorers

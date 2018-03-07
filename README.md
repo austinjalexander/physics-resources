@@ -34,6 +34,7 @@
 ### Neuroscience
 - https://eyewire.org/explore
 - https://www.humanbrainproject.eu/en/
+- http://www.quantumconsciousness.org/
 
 ### Physics
 - http://kouwenhovenlab.tudelft.nl/

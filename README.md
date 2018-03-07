@@ -54,6 +54,8 @@
 - https://people.eecs.berkeley.edu/~vazirani/quantum.html
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
+#### Twistor Theory
+- http://www.twistordiagrams.org.uk/
 
 #### Quantum
 - http://pirsa.org/C15009

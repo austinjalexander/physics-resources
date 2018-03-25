@@ -54,6 +54,7 @@
 - https://people.eecs.berkeley.edu/~vazirani/quantum.html
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
+- https://journals.aps.org/collections/stephen-hawking
 #### Twistor Theory
 - http://www.twistordiagrams.org.uk/
 

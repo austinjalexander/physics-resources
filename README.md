@@ -55,6 +55,8 @@
 - https://cs.uwaterloo.ca/~watrous/CS766/
 - http://gentleproject.eu/network/
 - https://journals.aps.org/collections/stephen-hawking
+#### Einstein
+- https://www.christies.com/features/Einstein-letters-to-Michele-Besso-8422-1.aspx
 #### Twistor Theory
 - http://www.twistordiagrams.org.uk/
 

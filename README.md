@@ -2,6 +2,9 @@
 
 ## To Investigate
 
+### Astronomy
+- https://solarsystem.nasa.gov/
+
 ### Biology
 - http://jeb.biologists.org/
 
@@ -17,6 +20,9 @@
 - https://www.pollacklab.org/
 - https://futurism.com/images/graphene-the-wonder-material-of-the-future-infographic/
 - https://i.redd.it/semjdz3r2we01.png
+
+### Earth
+- https://earth.stanford.edu/
 
 ### Games
 - https://www.scienceathome.org/

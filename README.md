@@ -72,6 +72,7 @@
 
 ### Publishing
 - https://sci-bay.org/
+- https://www.theatlantic.com/amp/article/556676/
 
 #### Quantum
 - http://pirsa.org/C15009

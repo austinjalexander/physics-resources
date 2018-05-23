@@ -17,6 +17,7 @@
 
 #### Groups / People
 - http://www.montana.edu/lkbonney/
+- http://www.psych.nyu.edu/poeppel/
 
 ### Chemistry
 - http://webpages.uidaho.edu/magolan/page7.html

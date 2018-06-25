@@ -45,6 +45,8 @@
 - https://eyewire.org/explore
 - https://www.humanbrainproject.eu/en/
 - http://www.quantumconsciousness.org/
+#### People
+- http://www.personal.psu.edu/cpc16/
 
 ### Physics
 - http://kouwenhovenlab.tudelft.nl/

@@ -15,6 +15,7 @@
 - https://profiles.stanford.edu/drew-endy
 - http://collinslab.mit.edu/index.html
 - http://novoheart.com/global/
+- http://cidarlab.org/
 
 #### Groups / People
 - http://www.montana.edu/lkbonney/

@@ -83,6 +83,8 @@
 ##### Computing
 - https://github.com/QISKit/openqasm
 - http://openql.org/
+###### Companies
+- https://www.idquantique.com/
 ###### Simulation
 - https://qutech.nl/qx-quantum-computer-simulator/
 ##### Hardware

@@ -83,6 +83,8 @@
 ##### Computing
 - https://github.com/QISKit/openqasm
 - http://openql.org/
+###### Simulation
+- https://qutech.nl/qx-quantum-computer-simulator/
 ##### Hardware
 - http://quantumcircuits.com/
 ##### Software

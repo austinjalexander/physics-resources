@@ -83,6 +83,7 @@
 #### Quantum
 - http://pirsa.org/C15009
 - http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
+- https://arxiv.org/archive/quant-ph
 ##### Software
 - http://holoviews.org/
 - https://kwant-project.org/

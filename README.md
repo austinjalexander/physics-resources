@@ -72,6 +72,8 @@
 #### Einstein
 *Nun ist er mir auch mit dem Abschied von dieser sonderbaren Welt ein wenig vorausgegangen. Das bedeutet nicht. Für uns gläubige Physiker hat die Scheidung zqischen Vergangenheit, Gegenwart und Zukunft nur die Bedeutung einter wenn auch hartnäckigen Illusion.*
 - https://www.christies.com/features/Einstein-letters-to-Michele-Besso-8422-1.aspx
+#### Organizations
+- http://www.calphysics.org/index.html
 #### People
 - https://theoreticalminimum.com/home
 #### Twistor Theory

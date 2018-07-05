@@ -76,23 +76,24 @@
 - http://www.calphysics.org/index.html
 #### People
 - https://theoreticalminimum.com/home
+#### Quantum
+- http://pirsa.org/C15009
+- http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
+- https://arxiv.org/archive/quant-ph
+##### Computing
+- https://github.com/QISKit/openqasm
+- http://openql.org/
+##### Hardware
+- http://quantumcircuits.com/
+##### Software
+- http://holoviews.org/
+- https://kwant-project.org/
 #### Twistor Theory
 - http://www.twistordiagrams.org.uk/
 
 ### Publishing
 - https://sci-bay.org/
 - https://www.theatlantic.com/amp/article/556676/
-
-#### Quantum
-- http://pirsa.org/C15009
-- http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
-- https://arxiv.org/archive/quant-ph
-##### Software
-- http://holoviews.org/
-- https://kwant-project.org/
-
-##### Hardware
-- http://quantumcircuits.com/
 
 ### Space
 - https://www.zooniverse.org/projects/ianc2/exoplanet-explorers

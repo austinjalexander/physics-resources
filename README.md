@@ -83,6 +83,9 @@
 #### Quantum
 - http://pirsa.org/C15009
 - http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
+##### Software
+- http://holoviews.org/
+- https://kwant-project.org/
 
 ##### Hardware
 - http://quantumcircuits.com/

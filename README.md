@@ -7,9 +7,10 @@
 
 ### Biology
 - http://jeb.biologists.org/
-
 #### Aging
 - http://www.sens.org/
+- http://insilico.com/
+  - https://www.frontiersin.org/articles/10.3389/fgene.2018.00242/abstract
 
 #### Bioengineering / Synthetic Biology
 - https://profiles.stanford.edu/drew-endy

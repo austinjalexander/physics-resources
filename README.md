@@ -31,6 +31,9 @@
 ### Earth
 - https://earth.stanford.edu/
 
+### Energy
+- - https://solarfuelshub.org/
+
 ### Games
 - https://www.scienceathome.org/
 
@@ -75,12 +78,20 @@
 - https://www.christies.com/features/Einstein-letters-to-Michele-Besso-8422-1.aspx
 #### Organizations
 - http://www.calphysics.org/index.html
+
+#### Optics/Photonics
+- https://www.lifepixel.com/
+- https://kolarivision.com/
+- http://www.spencerscamera.com/full-spectrum-cameras.cfm
+
 #### People
 - https://theoreticalminimum.com/home
+
 #### Quantum
 - http://pirsa.org/C15009
 - http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture
 - https://arxiv.org/archive/quant-ph
+- https://quantum.jpl.nasa.gov/
 ##### Computing
 - https://github.com/QISKit/openqasm
 - http://openql.org/

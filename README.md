@@ -7,6 +7,8 @@
 
 ### Biology
 - http://jeb.biologists.org/
+- https://openstax.org/details/biology
+
 #### Aging
 - http://www.sens.org/
 - http://insilico.com/
@@ -40,6 +42,7 @@
 ### Genetics
 - http://igem.org/Main_Page
 - https://profiles.nlm.nih.gov/ps/retrieve/Narrative/SC/p-nid/141
+- https://era.library.ualberta.ca/items/7e56da61-3144-4851-84fb-c68918d70ef1
 
 ### Microtubles
 - https://resonance.is/confirmation-quantum-resonance-brain-microtubules/

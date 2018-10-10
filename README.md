@@ -124,6 +124,8 @@
 - https://www.nasa.gov/connect/ebooks/index.html
 - https://homeandcity.nasa.gov/
 #### NASA
+##### EVA
+- http://cec.gatech.edu/projects/nstrf-decision-support-system-development-human-extravehicular-activity
 ##### SWE
 - https://nasa.github.io/openmct/
 

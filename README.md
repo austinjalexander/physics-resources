@@ -126,6 +126,7 @@
 #### NASA
 ##### EVA
 - http://cec.gatech.edu/projects/nstrf-decision-support-system-development-human-extravehicular-activity
+- https://www.nasa.gov/audience/foreducators/spacesuits/home/clickable_suit_nf.html
 ##### SWE
 - https://nasa.github.io/openmct/
 

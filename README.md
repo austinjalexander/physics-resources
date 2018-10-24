@@ -8,6 +8,8 @@
 ### Biology
 - http://jeb.biologists.org/
 - https://openstax.org/details/biology
+#### Astrobiology
+- http://miltonwainwright.com/
 
 #### Aging
 - http://www.sens.org/
@@ -112,6 +114,11 @@
 - https://kwant-project.org/
 #### Twistor Theory
 - http://www.twistordiagrams.org.uk/
+
+### Psychology
+- https://www.gaia.com/article/people-meet-dmt-entities-researchers-want-know-more
+- https://www.youtube.com/watch?v=EZAMKn2xr9E
+- https://en.wikipedia.org/wiki/Terence_McKenna
 
 ### Publishing
 - https://sci-bay.org/

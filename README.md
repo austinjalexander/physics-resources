@@ -136,6 +136,9 @@
 - https://www.nasa.gov/connect/ebooks/index.html
 - https://homeandcity.nasa.gov/
 
+#### Safefy
+- http://www.spacesafetymagazine.com/
+
 #### Space Mission Engineering
 - http://www.sme-smad.com/ (ASTRODATA)
 

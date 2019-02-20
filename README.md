@@ -135,6 +135,10 @@
 - https://www.iss-casis.org/
 - https://www.nasa.gov/connect/ebooks/index.html
 - https://homeandcity.nasa.gov/
+
+#### Space Mission Engineering
+- http://www.sme-smad.com/ (ASTRODATA)
+
 #### NASA
 - http://www.4-dsystems.com/
 ##### EVA

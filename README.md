@@ -136,6 +136,9 @@
 - https://www.nasa.gov/connect/ebooks/index.html
 - https://homeandcity.nasa.gov/
 
+#### News
+- https://www.nasaspaceflight.com/
+
 #### Safefy
 - http://www.spacesafetymagazine.com/
 
@@ -147,6 +150,8 @@
 ##### EVA
 - http://cec.gatech.edu/projects/nstrf-decision-support-system-development-human-extravehicular-activity
 - https://www.nasa.gov/audience/foreducators/spacesuits/home/clickable_suit_nf.html
+##### Mars
+- https://mars.nasa.gov/insight/weather/
 ##### SWE
 - https://nasa.github.io/openmct/
 

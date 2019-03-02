@@ -136,15 +136,6 @@
 - https://www.nasa.gov/connect/ebooks/index.html
 - https://homeandcity.nasa.gov/
 
-#### News
-- https://www.nasaspaceflight.com/
-
-#### Safefy
-- http://www.spacesafetymagazine.com/
-
-#### Space Mission Engineering
-- http://www.sme-smad.com/ (ASTRODATA)
-
 #### NASA
 - http://www.4-dsystems.com/
 ##### EVA
@@ -156,6 +147,21 @@
 - http://www.firstmenonthemoon.com/
 ##### SWE
 - https://nasa.github.io/openmct/
+##### TV
+- https://www.nasa.gov/multimedia/nasatv/index.html#public
+
+#### News
+- https://www.nasaspaceflight.com/
+- https://www.space.com/
+
+#### Safefy
+- http://www.spacesafetymagazine.com/
+
+#### Space Mission Engineering
+- http://www.sme-smad.com/ (ASTRODATA)
+
+### SpaceX
+- https://www.spacex.com/webcast
 
 ### UAPs/UFOs and Related
 - https://www.cia.gov/library/readingroom/collection/stargate

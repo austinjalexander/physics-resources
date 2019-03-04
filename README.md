@@ -126,6 +126,9 @@
 - https://sci-bay.org/
 - https://www.theatlantic.com/amp/article/556676/
 
+### Scale
+- https://www.youtube.com/watch?v=0fKBhvDjuy0
+
 ### Space
 - https://www.zooniverse.org/projects/ianc2/exoplanet-explorers
 - https://www.galaxyzoo.org/
@@ -160,8 +163,14 @@
 #### Space Mission Engineering
 - http://www.sme-smad.com/ (ASTRODATA)
 
-### SpaceX
+#### SpaceX
 - https://www.spacex.com/webcast
+
+#### Telescopes
+
+##### Hubble
+- https://www.spacetelescope.org/images/heic1502a/zoomable/
+- https://www.spacetelescope.org/images/
 
 ### UAPs/UFOs and Related
 - https://www.cia.gov/library/readingroom/collection/stargate

@@ -117,6 +117,13 @@
 #### Twistor Theory
 - http://www.twistordiagrams.org.uk/
 
+### Physiology
+#### HRV
+- https://www.hrv4training.com/publications.html
+- https://medium.com/@marco_alt/on-heart-rate-variability-and-the-apple-watch-24f50e8e7bc0
+- https://medium.com/@marco_alt/how-to-make-sense-of-your-apple-watch-heart-rate-variability-hrv-data-89bf4a510438
+- https://hrvcourse.com
+
 ### Psychology
 - https://www.gaia.com/article/people-meet-dmt-entities-researchers-want-know-more
 - https://www.youtube.com/watch?v=EZAMKn2xr9E

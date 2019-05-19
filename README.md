@@ -163,6 +163,7 @@
 #### News
 - https://www.nasaspaceflight.com/
 - https://www.space.com/
+- https://spacepolicyonline.com/
 
 #### Safefy
 - http://www.spacesafetymagazine.com/

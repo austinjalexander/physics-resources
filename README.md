@@ -188,3 +188,4 @@
 - http://www.theblackvault.com/casefiles/desks-project-blue-book/
 - http://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/
 - http://thenightshirt.com/
+- https://www.narcap.org/blog/advisoryforpilots/advisory-for-pilots-aircrews-air-controllers-and-aviation-professionals-unidentified-aerial-phenomena-uap-ufos-and-aviation-safety

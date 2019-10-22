@@ -56,6 +56,9 @@
 ### Molecular
 - http://pdb101.rcsb.org/
 
+### Music
+- https://tobyrush.com/theorypages/index.html
+
 ### Nanotechnology
 - http://nanohub.org/
 
